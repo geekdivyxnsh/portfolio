@@ -1,0 +1,82 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "FUTUREFUND – Decentralized Crowdfunding + QuantumML",
+      "description": "Merged Web3 smart contracts with Quantum Machine Learning for transparent and predictive fundraising.",
+      "technologies": ["Qiskit", "PennyLane", "FastAPI", "Flask", "Docker", "Solidity", "Hardhat", "React", "MetaMask", "IPFS"],
+      "category": "web",
+      "image": "./assets/projects/futurefund.png",
+      "githubUrl": "https://github.com/geekdivyxnsh/Future-Fund-blockchain-crowdfunding-quantum-ML-startup-success-predictor.",
+      "liveUrl": "https://future-fund-blockchain-crowdfunding.vercel.app/",
+      "liveLabel": "Live Demo",
+      "liveIcon": "fas fa-up-right-from-square",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "HEALTHAI PRO – Clinical AI Assistant Platform",
+      "description": "AI-powered platform for clinics and doctors to manage patients, track vitals, and automate workflows.",
+      "technologies": ["React 18", "TypeScript", "Tailwind CSS", "Lucide", "Vite"],
+      "category": "web",
+      "image": "./assets/projects/HealthAI Pro.png",
+      "githubUrl": "https://github.com/geekdivyxnsh/Clinical-AI-assistant",
+      "liveUrl": "https://clinical-ai-assistant-v2.vercel.app/",
+      "liveLabel": "Live Demo",
+      "liveIcon": "fas fa-up-right-from-square",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "STOCKSENCE – AI-Powered Stock Price Predictor",
+      "description": "Real-time stock forecasting using LSTM (Keras) with moving averages and exportable analytics.",
+      "technologies": ["Streamlit", "Keras", "yfinance", "Matplotlib", "Pandas", "XlsxWriter"],
+      "category": "automation",
+      "image": "./assets/projects/StockSense.png",
+      "githubUrl": "https://github.com/geekdivyxnsh/StockSense",
+      "liveUrl": "https://stocksense-6yw5bwkv2b5f3ygzcdo3q4.streamlit.app/",
+      "liveLabel": "Live Demo",
+      "liveIcon": "fas fa-up-right-from-square",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "CONVERSO – AI-Powered Learning Companion",
+      "description": "Interactive AI voice tutor using GPT-4, Deepgram, and 11Labs, with analytics dashboards.",
+      "technologies": ["Next.js", "TypeScript", "Supabase", "GPT-4", "Deepgram", "11Labs"],
+      "category": "web",
+      "image": "./assets/projects/Converso.png",
+      "githubUrl": "https://github.com/geekdivyxnsh/Converso-SaaS-app-project",
+      "liveUrl": "https://saas-app-omega-ten.vercel.app/",
+      "liveLabel": "Live Demo",
+      "liveIcon": "fas fa-up-right-from-square",
+      "featured": true
+    }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "name": "All",
+      "icon": "fa-solid fa-diagram-project",
+      "visible": true
+    },
+    {
+      "id": "web",
+      "name": "Web Dev",
+      "icon": "fa-solid fa-globe",
+      "visible": true
+    },
+    {
+      "id": "education",
+      "name": "Educational",
+      "icon": "fa-solid fa-graduation-cap",
+      "visible": false
+    },
+    {
+      "id": "automation",
+      "name": "Automation",
+      "icon": "fa-solid fa-robot",
+      "visible": true
+    }
+  ]
+}
