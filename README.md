@@ -1,4 +1,6 @@
 [![Banner](https://github.com/rushhiii/portfolio/blob/main/assets/ele/repo_banner.png?raw=true)](https://github.com/rushhiii/portfolio)
+<img width="1638" height="849" alt="image" src="https://github.com/user-attachments/assets/6c2380cf-9ba4-4d7b-acf6-5b021679d57a" />
+
 
 <h1>★ Modern Portfolio Website</h1>
 
@@ -430,24 +432,7 @@ Website-Portfolio/
 3. **View the website**
    - Open `http://localhost:8000` in your browser
 
-## 🌐 Deployment
 
-<img src="https://img.shields.io/badge/Netlify-One_Click_Deploy-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-
-### Netlify (Recommended)
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/rushhiii/Website-Portfolio)
-
-**Step-by-step deployment:**
-
-1. Fork this repository to your GitHub account
-2. Connect to Netlify - Go to [Netlify](https://netlify.com) and deploy from Git
-3. Configure Forms - Forms work automatically with Netlify
-
-### Alternative Deployment Options
-- **Vercel**: Connect GitHub repo for automatic deployment
-- **GitHub Pages**: Enable in repository settings  
-- **Firebase Hosting**: Use Firebase CLI for deployment
 
 ## 📧 Contact Form Configuration
 
@@ -510,11 +495,8 @@ Update `projects.json` with your project data:
 
 ## Contact
 
-📧 Email: rushiofficial1205@gmail.com  
-💼 LinkedIn: [in/rushhiii](https://linkedin.com/in/rushhiii)  
-🐙 GitHub: [@rushhiii](https://github.com/rushhiii)  
-🌐 Portfolio: [rushii-portfolio.netlify.app](https://rushii-portfolio.netlify.app/)
+
 
 #
 
-<p align="center"> by <strong>@rushhiii</strong></p>
+<p align="center"> by <strong>@geekdivyxnsh</strong></p>
